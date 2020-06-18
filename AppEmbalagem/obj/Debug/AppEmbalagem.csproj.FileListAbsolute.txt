@@ -1,0 +1,12 @@
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.exe.config
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.exe
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.pdb
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.csprojAssemblyReference.cache
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.FormPrincipal.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.Properties.Resources.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.csproj.GenerateResource.cache
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.exe
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.pdb
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.FormCadastroNome.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\MySql.Data.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.csproj.CopyComplete

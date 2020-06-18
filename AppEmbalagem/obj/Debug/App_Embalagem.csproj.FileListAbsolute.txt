@@ -1,0 +1,17 @@
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.exe.config
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.exe
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\AppEmbalagem.pdb
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\MySql.Data.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\App_Embalagem.csprojAssemblyReference.cache
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.FormPrincipal.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.FormCadastroNome.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.Properties.Resources.resources
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\App_Embalagem.csproj.GenerateResource.cache
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\App_Embalagem.csproj.CopyComplete
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.exe
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\obj\Debug\AppEmbalagem.pdb
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\Google.Protobuf.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\Renci.SshNet.dll
+C:\Users\Ancelmo\source\repos\AppEmbalagem\AppEmbalagem\bin\Debug\MySql.Data.xml
